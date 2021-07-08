@@ -1,0 +1,29 @@
+ori $28, $0, 0
+ori $29, $0, 0
+ori $0 , $0 , 0x80f8
+ori $14, $23, 0x0367
+ori $19, $12, 0x769c
+ori $29, $6, 0xa539
+ori $5 , $3 , 0xc5dc
+ori $30, $5, 0x0ff1
+ori $18, $3, 0xaf1d
+ori $22, $10, 0x6602
+ori $30, $15, 0x72a7
+ori $23, $1, 0xff23
+ori $25, $29, 0x649e
+ori $16, $20, 0xbf9b
+ori $30, $31, 0x4e0c
+ori $17, $24, 0xf49d
+lui $17, 0x3bfe
+lui $5 , 0x7433
+lui $3 , 0xc451
+lui $4 , 0xc431
+lui $28, 0x24d9
+lui $27, 0xf0da
+lui $12, 0xcc68
+lui $10, 0x118d
+lui $16, 0x21ea
+lui $0 , 0x04d3
+lui $22, 0x115b
+lui $24, 0x4f06
+lui $18, 0x15de
